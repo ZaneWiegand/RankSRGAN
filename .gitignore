@@ -1,6 +1,6 @@
-data/*
-results/*
-tb_logger/*
-experiments/*
-!data/readme.md
-!experiments/pretrained_models/readme.md
+# data/*
+# results/*
+# tb_logger/*
+# experiments/*
+# !data/readme.md
+# !experiments/pretrained_models/readme.md
